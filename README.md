@@ -22,7 +22,7 @@
  </p>
 </pre>
 <h2>Status</h2>
-<code>
+<pre>
   <p>
     Number of developers : 1 </br>
     Release  : 2019</br>
@@ -30,7 +30,7 @@
     Engine : Unity3d (2018) </br>
     Platforms : Windows, WebGl </br>
   </p>
-</code>
+</pre>
 <br/>
 <h2>Requirments</h2>
 <ul>
