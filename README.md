@@ -13,14 +13,29 @@
  <li><p>This game only contain a single scene<p></li>
  </ul>
  <pre>
- <p>&nbsp;./Assets : Contains the scene,sounds,prefabs etc <br/>
+ <p>
+ &nbsp;./Assets : Contains the scene,sounds,prefabs etc <br/>
  &nbsp;./Assets/Sound : Contains different Sounds relevent for the game<br/>
  &nbsp;./Assets/TextMeshPro :Contains assets for righting highly customizable text in unity<br/>
  &nbsp;./Assets/Prefab : Contains prefabs of different objects in the game<br/>
- &nbsp;./Assets/Scene : Contains the only scene present in the game :)</p>
+ &nbsp;./Assets/Scene : Contains the only scene present in the game :)
+ </p>
 </pre>
 <h2>Status</h2>
 <code>
+  <p>
+    Number of developers : 1 </br>
+    Release  : 2019</br>
+    Current Status : Under-Development </br>
+    Engine : Unity3d (2018) </br>
+    Platforms : Windows, WebGl </br>
+  </p>
+</code>
+<br/>
+<h2>Requirments</h2>
+<ul>
+  <li><p>Some sprites that would fit in this game</p></li>
+  </ul>
 <h4>
 Twitter :- @Shivamr88547643</h4><h4>
 Reddit :- u/Shivam_RawatOxox
