@@ -1,7 +1,7 @@
 
 
 <h1>Perpetual</h1>
-<h5>Perpetual is a indie 2D platformer game made for Github Game Jam.This game is constructed under the theme of hybrid.This game is infinite scrolling platformer 2d game.</h5>
+<p>Perpetual is a indie 2D platformer game made for Github Game Jam.This game is constructed under the theme of hybrid.This game is infinite scrolling platformer 2d game.</p>
 
 <h2>LINKS</h2>
   <h4><a href="https://www.youtube.com/watch?v=NqquNpDMs8c">Trailer</a></h4>
@@ -12,13 +12,13 @@
  <li><p>Open the directory <code>./GameJam/Scene/SampleScene</code> using unity<p></li>
  <li><p>This game only contain a single scene<p></li>
  </ul>
- <code>
- <p>./Assets : Contains the scene,sounds,prefabs etc</p>
- <p>./Assets/Sound : Contains different Sounds relevent for the game</p>
- <p>./Assets/TextMeshPro :Contains assets for righting highly customizable text in unity</p>
- <p>./Assets/Prefab : Contains prefabs of different objects in the game</p>
- <p>./Assets/Scene : Contains the only scene present in the game :)</p>
-</code>
+ <pre>
+ <p>&nbsp;./Assets : Contains the scene,sounds,prefabs etc <br/>
+ &nbsp;./Assets/Sound : Contains different Sounds relevent for the game<br/>
+ &nbsp;./Assets/TextMeshPro :Contains assets for righting highly customizable text in unity<br/>
+ &nbsp;./Assets/Prefab : Contains prefabs of different objects in the game<br/>
+ &nbsp;./Assets/Scene : Contains the only scene present in the game :)</p>
+</pre>
 <h2>Status</h2>
 <code>
 <h4>
